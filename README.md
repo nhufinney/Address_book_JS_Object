@@ -16,6 +16,5 @@ Setup instructions: open the file "Address-book.html" in your browser or after d
 
 - HTML5
 - CSS3
-- PHP
-- Silex, Twig, PHP Unit
-- Bootstrap ver 3.3.4
+- JavaScript
+
